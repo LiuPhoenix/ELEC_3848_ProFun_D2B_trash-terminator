@@ -162,7 +162,7 @@ python3 auto_sort.py
 - **Detection**: Background subtraction (OpenCV) for object localization
 - **Centering**: Compute pixel offset -> strfe robot to align
 - **Confidence threshold**: 0.5 (configurable via `CONF_THRESH`)
-- <img width="1280" height="1280" alt="846ef0b3a4f2560510eb6900d5174c5" src="https://github.com/user-attachments/assets/62948326-fc7a-4fdf-9173-ebabaf56b51a" />
+- <img width="480" height="480" alt="846ef0b3a4f2560510eb6900d5174c5" src="https://github.com/user-attachments/assets/62948326-fc7a-4fdf-9173-ebabaf56b51a" />
 
 
 ## License

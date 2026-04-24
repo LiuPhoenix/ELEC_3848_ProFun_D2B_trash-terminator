@@ -1,6 +1,8 @@
 # Trash Terminator
 
 An intelligent trash sorting robot built on Raspberry Pi and Arduino Mega. Uses MobileNetV2 for classification and ultrasonic PID stepping for precise navigation.
+<img width="1702" height="1276" alt="7e12cdb585f45dc2ce5a1713dbea9c0" src="https://github.com/user-attachments/assets/129568fb-6a5e-4aa6-b54b-03f339051f82" />
+
 
 ## System Architecture
 

@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Trained models (uncomment if you don't want to track large model files)
+# src/model/classifier_mobile.pt
+
+# Calibration images (personal, may differ per robot)
+# src/model/bg_empty.jpg
+
+# Arduino build files
+firmware/build/
+firmware/*.o
+firmware/*.elf
+firmware/*.hex
+firmware/*.bin
+
+# Sensitive / local config
+# src/config/calibration.json
